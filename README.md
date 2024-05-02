@@ -15,7 +15,7 @@ Submissions will be evaluated using Root Mean Squared Logarithmic Error (RMSLE).
 
 For a visual representation of the evaluation process, you can refer to the following image:
 
-![Evaluation Process](https://example.com/evaluation_process.png)
+![](https://example.com/evaluation_process.png)
 
 This diagram illustrates the steps involved in assessing the performance of submitted models.
 
