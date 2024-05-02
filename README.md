@@ -15,7 +15,8 @@ Submissions will be evaluated using Root Mean Squared Logarithmic Error (RMSLE).
 
 For a visual representation of the evaluation process, you can refer to the following image:
 
-![](https://example.com/evaluation_process.png)
+![Screenshot-2024-05-03-003410](https://github.com/CodeWithGauravRajput/Abalone_Regression-Kaggle_Competition-/assets/147279770/9618ada1-3bf4-48bf-9362-7ccfc0bc78ef)
+
 
 This diagram illustrates the steps involved in assessing the performance of submitted models.
 
